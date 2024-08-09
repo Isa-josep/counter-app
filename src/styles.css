@@ -1,0 +1,23 @@
+/* Estilos para el cuerpo de la página */
+html,body {
+    background-color: #21232A;
+    font-family: Arial, sans-serif;
+    padding: 70px;
+    color: white;
+}
+
+/* Estilos para botones */
+button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 20px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
